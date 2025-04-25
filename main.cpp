@@ -1,7 +1,7 @@
 /*
     TALLER 1 EDD 
-    MIEMBROS:       Agustin Ugas Ñancucheo
-                    Angelo Gonzalez Lobo
+    MIEMBROS:       Agustin 
+                    Angelo 
     FECHA:          10-09-2023
     SECCION:        412
     PROFESOR:       FERNANDO IVAN DONOSO SOLO DE ZALDIVAR
