@@ -4,8 +4,8 @@
                     Angelo 
     FECHA:          10-09-2023
     SECCION:        412
-    PROFESOR:       FERNANDO IVAN DONOSO SOLO DE ZALDIVAR
-    LINK AL VDEO:   https://youtu.be/XtpLgWpZWLA
+    PROFESOR:       FERNANDO DONOSO 
+    LINK AL VDEO:   
  */
 
 //Biblioteca
